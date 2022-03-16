@@ -11,6 +11,8 @@
 
 ---
 
+- 🎓 Began my coding journey with freeCodeCamp
+
 - 🌱 I’m currently learning Solidity, MERN, and Database technologies.
 
 - 🔭 I’m currently in the early phases of making a Date Planner App using the MERN 
@@ -18,7 +20,7 @@ stack (which is quite new to me, aside from React).
 
 - 🎮 Continually working on a passion project in Unity called [Gnash](https://github.com/TechnoGecko/MicrobialNightmare).
 
-- 👯 I’m looking to begin collaborating with other people and stop being a lonely self-taught dev:
+- 👯 I’m looking to begin collaborating with other people and stop being a lonely self-taught dev. Always looking for:
     - Open-source projects
     - Web3 projects
     - That one weird game idea you had!
