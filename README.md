@@ -4,8 +4,10 @@
 </h2>
 
 <h3 align="center">
-<a>Linkedin</a>  -  <a>Portfolio</a>
 </h3>
+<div align="center">
+<a>Linkedin</a>  -  <a>Portfolio</a>
+</div>
 <br/>
 <br/>
 
