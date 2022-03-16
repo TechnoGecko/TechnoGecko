@@ -6,7 +6,7 @@
 <h3 align="center">
 </h3>
 <div align="center">
-<a>Linkedin</a>  -  <a>Portfolio</a>
+<a href="https://www.linkedin.com/feed/">Linkedin</a>  -  <a href="https://codingreeves.com/">Portfolio</a>
 </div>
 <br/>
 <br/>
