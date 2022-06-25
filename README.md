@@ -16,12 +16,11 @@
 
 ---
 
-- 🎓 Began my coding journey with freeCodeCamp February 2021.
+- 🎓 Began my coding journey with freeCodeCamp.
 
 - 🌱 I’m currently learning Solidity, MERN, and Database technologies.
 
-- 🔭 I’m in the early phases of making a Date Planner App using the MERN 
-stack (which is quite new to me, aside from React). 
+- 🔭 Currently working on an app to reward drummers for developing a consistent practice routine, and help them explore new ideas on the drumset. 
 
 - 🎮 Continually working on a passion project in Unity called [Gnash](https://github.com/TechnoGecko/MicrobialNightmare).
 
